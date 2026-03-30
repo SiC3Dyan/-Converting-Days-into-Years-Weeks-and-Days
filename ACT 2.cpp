@@ -11,5 +11,9 @@ int main()
   int daysLeft = totalDays - (years * 365);
 
   int weeks = daysLeft / 7;
-  int remainingDays = 5; 
+  int remainingDays = 5;
+
+  cout << "Years: " << years << endl;
+  cout << "Weeks: " << weeks << endl;
+  cout << "Days: " << days << endl;
 }
