@@ -2,5 +2,7 @@
 using namespace std;
 
 int main () {
-  int totaldays;
+  int totalDays;
+  cout << "Enter number of Days.">>
+    cin >> totalDays;
 }
