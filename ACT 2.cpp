@@ -5,6 +5,9 @@ int main () {
   int totalDays;
   cout << "Enter number of Days: "
     cin >> totalDays;
+
+  int years = totalDays/365;
+  
     
 
 }
