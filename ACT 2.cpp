@@ -9,5 +9,8 @@ int main () {
   int years = totalDays/365;
   int dayLeft = totalDays - (years*365)
 
+  int weeks = daysLeft/7;
+  int remainingDays = 5;
+
   
 }
