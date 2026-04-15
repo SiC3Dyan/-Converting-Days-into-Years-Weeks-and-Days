@@ -16,5 +16,6 @@ int main () {
   cout << "Weeks: " << weeks << endl; 
   cout << "Days: " << days << endl;
 
+  return 0;
 }
 
