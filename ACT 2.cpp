@@ -14,6 +14,7 @@ int main () {
 
   cout << "Years: " << years << endl;
   cout << "Weeks: " << weeks << endl; 
+  cout << "Days: " << days << endl;
 
 }
 
