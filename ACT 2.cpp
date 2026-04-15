@@ -6,4 +6,8 @@ int main () {
   cout << "Enter Number of Days: ";
   cout >> totalDays;
 
+  int years = totalDays/365;
+  int dayLeft = totalDays - (years*365)
+
+  
 }
