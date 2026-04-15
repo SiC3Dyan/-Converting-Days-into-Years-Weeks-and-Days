@@ -13,6 +13,7 @@ int main () {
     int remainingDays = 5;
 
   cout << "Years: " << years << endl;
+  cout << "Weeks: " << weeks << endl; 
 
 }
 
