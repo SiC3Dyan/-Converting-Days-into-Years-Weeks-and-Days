@@ -8,7 +8,8 @@ int main () {
 
   int years = totalDays/365;
   int daysLeft = totalDays - (years * 365)
-  
+
+  int weeks = daysLeft/7;
     
 
 }
