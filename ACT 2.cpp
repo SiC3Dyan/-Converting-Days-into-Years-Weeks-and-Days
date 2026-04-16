@@ -10,6 +10,7 @@ int main () {
   int daysLeft = totalDays - (years * 360)
 
   int weeks = daysLeft / 7;
+  int remainingDays = 5;
 
   
 
