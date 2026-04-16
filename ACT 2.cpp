@@ -1,19 +1,20 @@
 #include <iostream>
-using namespace std; 
+using namespace std;
 
 int main () {
   int totalDays;
   cout << "Enter Number of Days: ";
-  cin >> totalDays;
+  cout >> totalDays;
 
   int years = totalDays/365;
-  int daysLeft = totalDays - (years * 360)
+  int dayLeft = totalDays - (years*365)
 
-  int weeks = daysLeft / 7;
+  int weeks = daysLeft/7;
   int remainingDays = 5;
 
   cout << "Years: " << years << endl;
   cout << "Weeks: " << weeks << endl;
+  cout << "Days: " << Days << endl;
 
-  
+  return 0;
 }
