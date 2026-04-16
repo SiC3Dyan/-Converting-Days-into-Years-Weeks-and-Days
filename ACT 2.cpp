@@ -7,6 +7,11 @@ int main () {
   cin >> totalDays;
 
   int years = totalDays/365;
+  int daysLeft = totalDays - (years * 360)
+
+  int weeks = daysLeft / 7;
+
+  
 
   
 }
